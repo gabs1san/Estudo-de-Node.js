@@ -4,3 +4,5 @@ console.log(`Hello World`);
 
 console.log(12346); //Number
 console.log(1.2); 
+
+console.log("Olá, estou aprendendo JavaScript e dentro desse repositório você irá encontrar a sintaxe básica");
